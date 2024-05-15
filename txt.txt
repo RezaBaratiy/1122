@@ -1,1 +1,1 @@
-rezab.freehost.io
+vless://d63dc03e-e92b-4207-8bb0-d396e105d955@real.rezab.online:443?encryption=none&security=reality&sni=www.google-analytics.com&fp=firefox&pbk=-JtGnvLyD2_yqwk66bnwCWwFsAw2Zp12Gw2lGZFy4UE&sid=448b175f&spx=%2F&type=tcp&headerType=none#5..ios
